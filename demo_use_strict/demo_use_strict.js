@@ -1,7 +1,7 @@
 "use strict";
 
 try {
-  console.log("Student Name: Your Full Name");
+  console.log("Student Name: Yun Winner");
   x = 10;
 } catch (error) {
   console.error(error.message);
